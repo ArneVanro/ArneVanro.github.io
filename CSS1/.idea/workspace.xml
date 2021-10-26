@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b80b364c-6634-4f65-86a1-0401fc3f4e6c" name="Changes" comment="" />
+    <list default="true" id="b80b364c-6634-4f65-86a1-0401fc3f4e6c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/CssOpdracht1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CssOpdracht2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CssOpdracht3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CssOpdracht4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CssOpdracht5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CssOpdracht6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Website/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Website/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Website/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homepage.html" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,8 +41,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Website" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\CSS1" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -43,10 +61,22 @@
       <workItem from="1634744662256" duration="306000" />
       <workItem from="1634820140666" duration="632000" />
       <workItem from="1635166478953" duration="59000" />
+      <workItem from="1635257719472" duration="2813000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
