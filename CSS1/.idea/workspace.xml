@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b80b364c-6634-4f65-86a1-0401fc3f4e6c" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/CssOpdracht6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CssOpdracht7.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Website/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Website/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Website/.idea/vcs.xml" afterDir="false" />
@@ -63,7 +62,7 @@
       <workItem from="1634744662256" duration="306000" />
       <workItem from="1634820140666" duration="632000" />
       <workItem from="1635166478953" duration="59000" />
-      <workItem from="1635257719472" duration="4851000" />
+      <workItem from="1635257719472" duration="5051000" />
     </task>
     <servers />
   </component>
