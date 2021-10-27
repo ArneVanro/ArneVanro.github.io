@@ -1,4 +1,33 @@
 h1{
     font-family: Verdana;
-    font-size: 1.1 em;
+    font-variant: all-petite-caps;
+    font-size: 1.1em;
+    border: 10px black;
+}
+html body{
+    background-color: silver;
+    color: darkblue;
+    margin: 0;
+}
+.menu{
+    background-color: red;
+}
+.kader:hover{
+    font-size: 1.2em;
+    border: 3px solid #8C9777;
+}
+
+.stippeltjesrand{
+    border: 1px dashed grey;
+    margin-right: 10em;
+}
+
+a{
+    background-image: url("Media/img.png");
+    background-size: 1.2em 1.2em;
+    background-repeat: no-repeat;
+    padding-left: 20px;
+}
+ul{
+    list-style-type: circle;
 }

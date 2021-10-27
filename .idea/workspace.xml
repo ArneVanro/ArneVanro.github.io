@@ -2,17 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae919fa4-b1aa-4ef9-bfb9-e79098baa2d1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CSS2/CSSOpdracht1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS2/CSSOpdracht4.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS2/Opdracht1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS2/Opdracht4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS2/resume.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS2/resumeCSS.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Website.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CSS1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fake.labo/labo.html" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS2/CSSOpdracht6.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS2/Media/Checked.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS2/Media/Img2Opdracht1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS2/Media/ImgOpdracht1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS2/Media/ImgOpdracht2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS2/Media/UnCheckedIcon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS2/Media/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS2/Opdracht2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS2/Opdracht6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSSIndex.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS2/CSSOpdracht4.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS2/CSSOpdracht4.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS2/Opdracht1.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS2/Opdracht1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS2/Opdracht4.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS2/Opdracht4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +28,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -40,11 +46,17 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/CSS2" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\CSS2" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io" />
+      <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\CSS2\Media" />
       <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\CSS2" />
     </key>
   </component>
@@ -57,6 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1635337242491</updated>
       <workItem from="1635337243724" duration="3946000" />
+      <workItem from="1635347253034" duration="7603000" />
     </task>
     <servers />
   </component>
@@ -73,5 +86,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
