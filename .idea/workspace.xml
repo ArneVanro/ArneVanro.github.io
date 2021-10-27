@@ -1,12 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b80b364c-6634-4f65-86a1-0401fc3f4e6c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/Website.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../fake.labo/labo.html" beforeDir="false" />
+    <list default="true" id="ae919fa4-b1aa-4ef9-bfb9-e79098baa2d1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/CSS2/CSSOpdracht1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS2/CSSOpdracht4.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS2/Opdracht1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS2/Opdracht4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS2/resume.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS2/resumeCSS.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Website.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CSS1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fake.labo/labo.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,14 +23,14 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1zm6sQTBi7xrx0VNektPDRPwt0f" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="205b9EpDGni678YOUyd16oPvv26" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -34,29 +40,23 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Website" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\CSS1" />
+      <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\CSS2" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b80b364c-6634-4f65-86a1-0401fc3f4e6c" name="Changes" comment="" />
-      <created>1634741123585</created>
+      <changelist id="ae919fa4-b1aa-4ef9-bfb9-e79098baa2d1" name="Changes" comment="" />
+      <created>1635337242491</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1634741123585</updated>
-      <workItem from="1634741125018" duration="1079000" />
-      <workItem from="1634744662256" duration="306000" />
-      <workItem from="1634820140666" duration="632000" />
-      <workItem from="1635166478953" duration="59000" />
-      <workItem from="1635257719472" duration="5051000" />
-      <workItem from="1635337032374" duration="61000" />
-      <workItem from="1635337130869" duration="122000" />
+      <updated>1635337242491</updated>
+      <workItem from="1635337243724" duration="3946000" />
     </task>
     <servers />
   </component>
@@ -73,6 +73,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
