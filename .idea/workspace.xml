@@ -2,22 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae919fa4-b1aa-4ef9-bfb9-e79098baa2d1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CSS2/CSSOpdracht6.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS2/Media/Checked.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS2/Media/Img2Opdracht1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS2/Media/ImgOpdracht1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS2/Media/ImgOpdracht2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS2/Media/UnCheckedIcon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS2/Media/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS2/Opdracht2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS2/Opdracht6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSSIndex.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS2/CSSOpdracht4.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS2/CSSOpdracht4.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS2/Opdracht1.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS2/Opdracht1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS2/Opdracht4.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS2/Opdracht4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSSIndex.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSSIndex.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML5/Likes.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/Likes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML5/PersonalFile.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/PersonalFile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML5/hobby.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/hobby.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +59,9 @@
       <option name="presentableId" value="Default" />
       <updated>1635337242491</updated>
       <workItem from="1635337243724" duration="3946000" />
-      <workItem from="1635347253034" duration="7603000" />
+      <workItem from="1635347253034" duration="7845000" />
+      <workItem from="1635409592643" duration="289000" />
+      <workItem from="1635409937285" duration="117000" />
     </task>
     <servers />
   </component>
