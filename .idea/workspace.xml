@@ -4,11 +4,6 @@
     <list default="true" id="ae919fa4-b1aa-4ef9-bfb9-e79098baa2d1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSSIndex.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSSIndex.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML5/Likes.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/Likes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML5/PersonalFile.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/PersonalFile.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML5/hobby.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/hobby.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +57,7 @@
       <workItem from="1635347253034" duration="7845000" />
       <workItem from="1635409592643" duration="289000" />
       <workItem from="1635409937285" duration="117000" />
+      <workItem from="1635430670265" duration="221000" />
     </task>
     <servers />
   </component>
