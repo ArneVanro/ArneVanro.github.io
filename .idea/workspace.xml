@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae919fa4-b1aa-4ef9-bfb9-e79098baa2d1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/CSS3/Opdracht 2/CSS3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS3/Opdracht 2/header.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS3/Opdracht 2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML5/Stylesheets/CSSpersonalFile.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSSIndex.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSSIndex.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML5/PersonalFile.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/PersonalFile.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -40,6 +45,8 @@
       <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\CSS2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\CSS3\Opdracht 2" />
+      <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\CSS3" />
       <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io" />
       <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\CSS2\Media" />
       <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\CSS2" />
@@ -57,7 +64,10 @@
       <workItem from="1635347253034" duration="7845000" />
       <workItem from="1635409592643" duration="289000" />
       <workItem from="1635409937285" duration="117000" />
-      <workItem from="1635430670265" duration="221000" />
+      <workItem from="1635430670265" duration="2011000" />
+      <workItem from="1635514462182" duration="1118000" />
+      <workItem from="1636046335442" duration="81000" />
+      <workItem from="1636548192482" duration="7987000" />
     </task>
     <servers />
   </component>

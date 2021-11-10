@@ -1,13 +1,12 @@
 h1{
     font-size: 3em;
-    border: 3px solid white;
+    border: 3px solid #008EA2;
     margin: 0;
-    color: white;
 }
 
 body{
     padding-left: 1em;
-    background-color: rgba(3, 15, 40, 0.98);
+    background-color: #00FFC8;
     margin: 0;
     padding-bottom: 100em;
     padding-top: 1em;
@@ -16,7 +15,7 @@ li{
     font-size: 1.5em;
     font-family: "Times New Roman";
     margin: 10px;
-    color: white;
+    color: #008EA2;
 
 }
 a:hover{
@@ -24,6 +23,6 @@ a:hover{
 }
 
 a{
-    color: white;
+    color: #008EA2;
 
 }

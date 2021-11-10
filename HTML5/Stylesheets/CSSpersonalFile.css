@@ -1,0 +1,83 @@
+h1{
+    margin:0;
+    padding-top: 0.5em;
+    font-size: 3em;
+    background-color: #252424;
+    color: white;
+}
+
+body{
+    margin: auto;
+    width: 80%;
+    background-color: #545454;
+}
+
+section{
+    background-color: #a8a8a8;
+}
+
+section header{
+    background-color: #252424;
+    color: white;
+}
+
+
+
+.scarface{
+    display: block;
+    width: 20%;
+}
+.personalList{
+    background-image: url("../Media/Logo_Hogeschool_VIVES.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: right;
+}
+
+a{
+    font-variant: all-petite-caps;
+}
+
+a:hover{
+    font-size: 1.2em  ;
+}
+
+.datagrid table {
+    border-collapse: collapse;
+    text-align: left; width: 100%;
+}
+.datagrid {
+    font: normal 12px/150% Arial, Helvetica, sans-serif;
+    background: #fff; overflow: hidden;
+    border: 10px solid #8C8C8C;
+    border-radius: 10px;
+}
+.datagrid table td, .datagrid table th {
+    padding: 3px 10px;
+}
+.datagrid table thead th {
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#8C8C8C', endColorstr='#7D7D7D');
+    background-color:#8C8C8C;
+    color:#FFFFFF;
+    font-size: 18px;
+    font-weight: bold;
+    border-left: 3px solid #A3A3A3;
+}
+.datagrid table thead th:first-child {
+    border: none;
+}
+.datagrid table tbody td {
+    color: #7D7D7D;
+    border-left: 3px solid #DBDBDB;
+    font-size: 12px;
+    font-weight: normal;
+}
+.datagrid table tbody .alt td {
+    background: #EBEBEB;
+    color: #7D7D7D;
+}.datagrid table tbody td:first-child {
+     border-left: none;
+ }
+.datagrid table tbody tr:last-child td {
+    border-bottom: none;
+}

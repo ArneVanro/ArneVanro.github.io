@@ -3,24 +3,23 @@
 <head>
     <meta charset="UTF-8">
     <title>Personalfile</title>
-    <link href="../CSSIndex.css" rel="Stylesheet" type="text/css">
+    <link href="Stylesheets/CSSpersonalFile.css" rel="Stylesheet" type="text/css">
 </head>
 <body>
 <header>
-    <h1>Arne Vanroose</h1>
+    <h1 class="title">Arne Vanroose</h1>
 </header>
 
 <section id="personalInfo">
     <header>
         <h2>Personal Information Section</h2>
     </header>
-    <ul>
+    <ul class="personalList">
         <li>Arne Vanroose</li>
         <li>Hogestraat 92 Kachtem</li>
         <li>0420696969</li>
         <li>arne.vanroose@outlook.com</li>
     </ul>
-    <img src="Media/Logo_Hogeschool_VIVES.jpg" alt="foto" width="500" height="600"/>
 </section>
 
 <section id="hobbies">
@@ -45,14 +44,17 @@
 
 <section id="Likes">
     <header>
-        <h3>Likes</h3>
+        <h2>Likes</h2>
     </header>
     <p>Favorite movie: scarface</p>
-    <img src="Media/scarface-say-hello-to-my-little-friend-i10924.jpg" alt="picture">
+    <img class="scarface" src="Media/scarface-say-hello-to-my-little-friend-i10924.jpg" alt="picture" >
     <a href="https://youtu.be/AVQ8byG2mY8?t=10">Say hello to my little friend</a>
 </section>
 
 <section id="prognoses">
+    <header>
+        <h2>Pronostiek</h2>
+    </header>
     <table border = 1 width="95%">
         <tr>
             <th>Students</th><th>Web development</th> <th>Fundamentels of programming</th> <th>Excel</th>
@@ -63,5 +65,34 @@
     </table>
 </section>
 
+<section id="Vrienden">
+    <header>
+        <h2>Vrienden</h2>
+    </header>
+    <div  class="datagrid">
+    <table>
+        <thead>
+        <tr>
+            <th>Naam</th><th>Familienaam</th> <th>Postcode</th> <th>Geslacht</th><th>Grootte</th><th>Haarkleur</th>
+        </tr>
+        </thead>
+        <tr>
+            <th>Bart</th><th>Peters</th><th>8595</th><th>man</th><th>130 cm</th><th>Roze</th>
+        </tr>
+        <tr>
+            <th>Elon</th><th>Musk</th><th>8255</th><th>man</th><th>180 cm</th><th>Groen</th>
+        </tr>
+        <tr>
+            <th>Post</th><th>Malone</th><th>8568</th><th>man</th><th>190 cm</th><th>Roze</th>
+        </tr>
+        <tr>
+            <th>Tom</th><th>Peters</th><th>7595</th><th>man</th><th>220 cm</th><th>Paars</th>
+        </tr>
+        <tr>
+            <th>JanJaap</th><th>Peters</th><th>8595</th><th>man</th><th>180 cm</th><th>Roze</th>
+        </tr>
+    </table>
+    </div>
+</section>
 </body>
 </html>
