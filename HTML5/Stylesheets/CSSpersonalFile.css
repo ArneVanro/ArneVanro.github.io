@@ -41,7 +41,13 @@ a{
 a:hover{
     font-size: 1.2em  ;
 }
-
+.table th{
+    border: 4px solid black;
+}
+.table{
+    width: 95%;
+    margin: auto;
+}
 .datagrid table {
     border-collapse: collapse;
     text-align: left; width: 100%;
