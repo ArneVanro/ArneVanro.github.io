@@ -1,3 +1,7 @@
+html{
+    font-family: Verdana;
+    background-color: white;
+}
 h1{
     margin:0;
     padding-top: 0.5em;
@@ -9,23 +13,19 @@ h1{
 body{
     margin: auto;
     width: 80%;
-    background-color: #E0E1DD;
 }
 
 section{
-    background-color: #415A77;
+    background-color: rgba(93, 99, 114, 0.76);
 }
 
 section header{
-    background-color: #1B263B;
+    background-color: #242836;
     color: white;
 }
 
-
-
 .scarface{
     display: block;
-    width: 20%;
 }
 .personalList{
     background-image: url("../Media/Logo_Hogeschool_VIVES.jpg");
@@ -50,9 +50,12 @@ a:hover{
 }
 .datagrid table {
     border-collapse: collapse;
-    text-align: left; width: 100%;
+    text-align: left;
+    width: 100%;
 }
 .datagrid {
+    width: 95%;
+    margin: auto;
     font: normal 12px/150% Arial, Helvetica, sans-serif;
     background: #fff; overflow: hidden;
     border: 10px solid #8C8C8C;
@@ -79,11 +82,15 @@ a:hover{
     font-weight: normal;
 }
 .datagrid table tbody .alt td {
-    background: #EBEBEB;
+    background: #9d1818;
     color: #7D7D7D;
 }.datagrid table tbody td:first-child {
      border-left: none;
  }
 .datagrid table tbody tr:last-child td {
     border-bottom: none;
+}
+
+.onbekend{
+    background-color: red;
 }

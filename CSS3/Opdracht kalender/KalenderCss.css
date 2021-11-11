@@ -1,0 +1,28 @@
+th, td{
+    border: 2px solid grey;
+}
+tr td:first-child{
+    background-color: rgb(255, 220, 220);
+}
+tr td:last-child{
+    background-color: rgb(255, 220, 220);
+}
+
+tr td.AndereMaand{
+    background-color: grey;
+}
+
+.VrijeDag{
+    background-color: rgb(250,120,120);
+}
+
+.Month{
+    background-color: rgb(19, 19, 138);
+}
+.Day{
+    color: rgb(200,190,240);
+    background-color: rgb(35,37,70);
+}
+h1{
+    margin: 0;
+}
