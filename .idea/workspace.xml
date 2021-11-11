@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae919fa4-b1aa-4ef9-bfb9-e79098baa2d1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CSS3/Opdracht 2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS3/Opdracht kalender/KalenderCss.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS3/Opdracht kalender/Opdracht kalender.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CSS3/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS3/Index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS3/Opdracht 2/CSS3.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS3/Opdracht Nature Blog/CSS3.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS3/Opdracht 2/Opdracht2Html.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS3/Opdracht Nature Blog/OpdrachtNatureBlog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS3/Opdracht 2/header.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/CSS3/Opdracht Nature Blog/header.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML5/PersonalFile.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/PersonalFile.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML5/Stylesheets/CSSpersonalFile.css" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/Stylesheets/CSSpersonalFile.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +64,7 @@
       <workItem from="1636548192482" duration="7987000" />
       <workItem from="1636558943288" duration="84000" />
       <workItem from="1636560547783" duration="7154000" />
-      <workItem from="1636629138739" duration="4524000" />
+      <workItem from="1636629138739" duration="4705000" />
     </task>
     <servers />
   </component>
