@@ -1,0 +1,9 @@
+section{
+    box-sizing: border-box;
+    height: 600px;
+    width: 48%;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid black;
+    float: left;
+}

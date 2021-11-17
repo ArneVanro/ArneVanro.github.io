@@ -1,0 +1,57 @@
+body{
+    width: 95%;
+    margin: auto;
+    font-family: Verdana;
+    font-size: 1.2em;
+}
+h1{
+    color: #007e7e;
+    font-size: 150%;
+}
+h2{
+    color: #007e7e;
+    font-size: 130%;
+}
+
+header p{
+    text-align: center;
+}
+
+footer{
+    font-size: 50%;
+    text-align: center;
+}
+
+.specials p a:hover{
+    background-color: #964444;
+}
+
+.specials{
+    text-align: center;
+    box-sizing: border-box;
+    float: right;
+    width: 30%;
+    border: 2px solid black;
+}
+.specials h1{
+    background-image: url("images/cocktail.gif");
+}
+
+
+.origin{
+    box-sizing: border-box;
+    width: 70%;
+
+}
+
+#guarantee{
+    background-image: url("images/background.gif");
+    background-repeat: no-repeat;
+    text-align: center;
+    margin: 30px;
+    padding: 20px 60px;
+    border: 2px dotted black;
+    background-color: #a7cece;
+    color: #444444;
+}
+
