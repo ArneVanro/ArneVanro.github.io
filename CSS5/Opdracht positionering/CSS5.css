@@ -1,0 +1,26 @@
+html{
+    font-size: 1.25em;
+    width: 70%;
+    margin:auto;
+}
+
+article{
+    float: left;
+    margin: 10px;
+    border: black solid 2px;
+}
+
+article:nth-child(even) p img{
+    width: 200px;
+    height: auto;
+    float: right;
+    padding: 10px;
+}
+article:nth-child(odd) p img{
+    width: 200px;
+    height: auto;
+    float: left;
+    padding: 10px;
+}
+
+

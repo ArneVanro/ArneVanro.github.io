@@ -2,14 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae919fa4-b1aa-4ef9-bfb9-e79098baa2d1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CSS4/Media/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS4/Media/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS4/Opdracht 3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS4/Opdracht 4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS4/Opdracht 5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS5/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS5/Opdracht airbus/CSSAirbus.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS5/Opdracht airbus/airbus.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS5/Opdracht positionering/CSS5.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS5/Opdracht positionering/Media/flight1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS5/Opdracht positionering/Media/flight2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS5/Opdracht positionering/Media/flight3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS5/Opdracht positionering/Media/flight4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS5/Opdracht positionering/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS4/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS4/Index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS4/LoremIpsumCss.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS4/LoremIpsumCss.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS4/begin_cocktail_bar/loungestart.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS4/begin_cocktail_bar/loungestart.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,8 +23,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -38,21 +41,22 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/CSS4" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/CSS5" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\CSS5" />
       <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\CSS4" />
       <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\CSS2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\CSS5\Opdracht airbus" />
+      <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\CSS5\Opdracht positionering" />
+      <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\CSS5\Media" />
+      <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\CSS5" />
       <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\CSS3\Opdracht kalender" />
-      <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\CSS3\Opdracht 2" />
-      <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\CSS3" />
-      <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io" />
-      <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\CSS2\Media" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -76,7 +80,12 @@
       <workItem from="1636629138739" duration="5309000" />
       <workItem from="1637068981809" duration="783000" />
       <workItem from="1637151970231" duration="8271000" />
-      <workItem from="1637166475510" duration="685000" />
+      <workItem from="1637166475510" duration="1097000" />
+      <workItem from="1637170869881" duration="630000" />
+      <workItem from="1637172376909" duration="1000" />
+      <workItem from="1637681946594" duration="7557000" />
+      <workItem from="1637762665969" duration="1361000" />
+      <workItem from="1638098146317" duration="1873000" />
     </task>
     <servers />
   </component>
