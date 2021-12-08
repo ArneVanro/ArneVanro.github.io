@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae919fa4-b1aa-4ef9-bfb9-e79098baa2d1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CSS6/CSSpersonalFile.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS6/Index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS6/Media/845x1200.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS6/Media/aquaman-i109850.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS6/Media/download.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS6/Media/iron-man-7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS6/Media/tumblr_1d629e78864df2c5e46f8de211589265_939b0889_1280.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS6/Oef2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS6/PersonalFile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS7/BeginSituatie/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML5/Likes.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/Likes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML5/Media/scarface-say-hello-to-my-little-friend-i10924.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/CSS6/Media/scarface-say-hello-to-my-little-friend-i10924.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML5/PersonalFile.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/PersonalFile.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PersonalFile.html" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalFile.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,11 +44,11 @@
       <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\CSS2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\CSS7\BeginSituatie" />
+      <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\CSS7" />
       <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\CSS6\Media" />
       <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\CSS6" />
       <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\HTML5\Media" />
-      <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\CSS6\Bootstrap" />
-      <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\CSS6\Bootstrap\style" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -92,7 +79,10 @@
       <workItem from="1637762665969" duration="1361000" />
       <workItem from="1638098146317" duration="3071000" />
       <workItem from="1638362252031" duration="5823000" />
-      <workItem from="1638375578536" duration="1265000" />
+      <workItem from="1638375578536" duration="4132000" />
+      <workItem from="1638528350151" duration="77000" />
+      <workItem from="1638891500467" duration="366000" />
+      <workItem from="1638895256330" duration="1280000" />
     </task>
     <servers />
   </component>
