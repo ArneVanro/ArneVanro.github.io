@@ -1,41 +1,107 @@
-/* items */
+@media only screen and (min-width: 360px){
+    section {
+        display: grid;
+        grid-template-columns: auto auto;
+    }
 
-section div {
-    color: white;
-    font-size: 20px;
-    padding: 20px;
-    text-align: center;
-    font-size: 3em;
+    section div {
+        color: white;
+        padding: 20px;
+        text-align: center;
+        font-size: 3em;
+    }
+    .item-1 {
+        background: #b03532;
+    }
+
+    .item-2 {
+        background: #33a8a5;
+    }
+
+    .item-3 {
+        background: #30997a;
+    }
+
+    .item-4 {
+        background: #6a478f;
+    }
+
+    .item-5 {
+        background: #da6f2b;
+    }
+
+    .item-6 {
+        background: #3d8bb1;
+    }
+
+    .item-7 {
+        background: #e03f3f;
+    }
+
+    .item-8 {
+        background: #59a627;
+    }
+
+    .item-9 {
+        background: #4464a1;
+    }
 }
 
-/* specific item styles */
+@media only screen and (min-width: 760px){
+    section {
+        display: grid;
+        grid-template-columns: auto auto auto auto;
+    }
 
-.item-1 {
-    background: #b03532;
-}
-.item-2 {
-    background: #33a8a5;
-}
-.item-3 {
-    background: #30997a;
-}
-.item-4 {
-    background: #6a478f;
-}
-.item-5 {
-    background: #da6f2b;
-}
-.item-6 {
-    background: #3d8bb1;
-}
-.item-7 {
-    background: #e03f3f;
-}
-.item-8 {
-    background: #59a627;
-}
-.item-9 {
-    background: #4464a1;
+    section div {
+        color: white;
+        padding: 20px;
+        text-align: center;
+        font-size: 3em;
+    }
+
+
+    .item-1 {
+        background: #b03532;
+    }
+
+    .item-2 {
+        grid-column-start: 2;
+        grid-column-end: 4;
+        background: #33a8a5;
+    }
+
+    .item-3 {
+        background: #30997a;
+    }
+
+    .item-4 {
+        background: #6a478f;
+    }
+
+    .item-5 {
+        grid-column-start: 2;
+        grid-column-end: 4;
+        background: #da6f2b;
+    }
+
+    .item-6 {
+        background: #3d8bb1;
+    }
+
+    .item-7 {
+        background: #e03f3f;
+    }
+
+    .item-8 {
+        grid-column-start: 2;
+        grid-column-end: 4;
+        background: #59a627;
+    }
+
+    .item-9 {
+        background: #4464a1;
+    }
 }
 
 

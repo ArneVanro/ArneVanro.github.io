@@ -2,8 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae919fa4-b1aa-4ef9-bfb9-e79098baa2d1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CSS7/BeginSituatie/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS7/Excersises/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS7/Excersises/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS7/Excersises/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS7/Excersises/css/default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS7/Excersises/css/exercise1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS7/Excersises/css/exercise2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS7/Excersises/css/exercise3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS7/Excersises/css/exercise4.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS7/Excersises/css/exercise5.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS7/Excersises/css/exercise6.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS7/Excersises/exercise1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS7/Excersises/exercise2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS7/Excersises/exercise3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS7/Excersises/exercise4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS7/Excersises/exercise5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS7/Excersises/exercise6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS7/Excersises/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS7/BeginSituatie/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS7/BeginSituatie/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS7/BeginSituatie/style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS7/BeginSituatie/style/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,17 +50,17 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/CSS6" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/CSS7/Excersises" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\CSS7\Excersises" />
       <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\CSS6" />
       <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\CSS6\Bootstrap" />
       <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\CSS5" />
       <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\CSS4" />
-      <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\CSS2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\CSS7\BeginSituatie" />
@@ -83,6 +102,12 @@
       <workItem from="1638528350151" duration="77000" />
       <workItem from="1638891500467" duration="366000" />
       <workItem from="1638895256330" duration="1280000" />
+      <workItem from="1638968134040" duration="555000" />
+      <workItem from="1638968749520" duration="4466000" />
+      <workItem from="1638979827989" duration="1788000" />
+      <workItem from="1638982668827" duration="685000" />
+      <workItem from="1639036165833" duration="86000" />
+      <workItem from="1639126604047" duration="4000" />
     </task>
     <servers />
   </component>
