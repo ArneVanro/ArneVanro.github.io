@@ -2,27 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae919fa4-b1aa-4ef9-bfb9-e79098baa2d1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CSS7/Excersises/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS7/Excersises/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS7/Excersises/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS7/Excersises/css/default.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS7/Excersises/css/exercise1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS7/Excersises/css/exercise2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS7/Excersises/css/exercise3.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS7/Excersises/css/exercise4.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS7/Excersises/css/exercise5.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS7/Excersises/css/exercise6.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS7/Excersises/exercise1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS7/Excersises/exercise2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS7/Excersises/exercise3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS7/Excersises/exercise4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS7/Excersises/exercise5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS7/Excersises/exercise6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS7/Excersises/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 14 12/OpdrachtKitchn/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 14 12/OpdrachtKitchn/start.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 14 12/OpdrachtKitchn/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 14 12/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS7/BeginSituatie/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS7/BeginSituatie/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS7/BeginSituatie/style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS7/BeginSituatie/style/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS4/begin_cocktail_bar/CSSCocktailBar.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS4/begin_cocktail_bar/CSSCocktailBar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS4/begin_cocktail_bar/loungestart.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS4/begin_cocktail_bar/loungestart.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CSS7/Excersises/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CSS7/Excersises/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,11 +50,11 @@
       <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\CSS4" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\Labo 14 12\OpdrachtKitchn" />
+      <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\Labo 14 12\herhalingOefeningen\Opdracht1" />
       <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\CSS7\BeginSituatie" />
       <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\CSS7" />
       <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\CSS6\Media" />
-      <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\CSS6" />
-      <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\HTML5\Media" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -108,6 +95,8 @@
       <workItem from="1638982668827" duration="685000" />
       <workItem from="1639036165833" duration="86000" />
       <workItem from="1639126604047" duration="4000" />
+      <workItem from="1639494927638" duration="11393000" />
+      <workItem from="1639572827476" duration="4368000" />
     </task>
     <servers />
   </component>

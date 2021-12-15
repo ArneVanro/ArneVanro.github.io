@@ -28,24 +28,18 @@ footer {
 
 .specials{
     text-align: center;
-    box-sizing: border-box;
-    float: right;
-    width: 30%;
     border: 2px solid black;
 }
 .specials h1{
     background-image: url("images/cocktail.gif");
     padding-top: 25px;
 }
-
-
 .origin{
     box-sizing: border-box;
     width: 70%;
     padding-right: 40px;
 
 }
-
 #guarantee{
     background-image: url("images/background.gif");
     background-repeat: no-repeat;
