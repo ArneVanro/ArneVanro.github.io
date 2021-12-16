@@ -23,9 +23,11 @@ h2{
     margin-bottom: 1em;
 }
 .header{
-    border-bottom: #ebe8e8 solid 1px;
     width: 600px;
     margin: auto;
+}
+.headerLine{
+    border-bottom: #ebe8e8 solid 1px;
 }
 .header img{
     height: 50px;
@@ -62,7 +64,7 @@ h2{
     padding-top: 230px;
 }
 .nav span:hover{
-    text-decoration: underline #fff100 2px;
+    border-bottom: #fff100 solid 2px;
 }
 
 .Recipes{
