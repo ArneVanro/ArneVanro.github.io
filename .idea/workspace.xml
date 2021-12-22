@@ -2,10 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae919fa4-b1aa-4ef9-bfb9-e79098baa2d1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/BlinkCss.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blinktest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Extraatje/Afrika.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Extraatje/AfrikaCSS.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Extraatje/images/Africa_logo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Extraatje/images/Karen_Blixen.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Extraatje/images/headerokapi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Extraatje/images/outpic1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Extraatje/images/outpic2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Extraatje/images/outpic3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Extraatje/images/stripverloopokapi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Extraatje/images/sydney.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML5/Stylesheets/CSSpersonalFile.css" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/Stylesheets/CSSpersonalFile.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labo 14 12/OpdrachtKitchn/start.html" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 14 12/OpdrachtKitchn/start.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,11 +55,11 @@
       <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\CSS4" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\Extraatje\images" />
+      <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\Extraatje" />
       <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\Labo 14 12\OpdrachtKitchn" />
       <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\Labo 14 12\herhalingOefeningen\Opdracht1" />
       <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\CSS7\BeginSituatie" />
-      <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\CSS7" />
-      <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\CSS6\Media" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -96,7 +104,8 @@
       <workItem from="1639572827476" duration="7176000" />
       <workItem from="1639661126567" duration="975000" />
       <workItem from="1639729719087" duration="1000" />
-      <workItem from="1640163696072" duration="1634000" />
+      <workItem from="1640163696072" duration="2116000" />
+      <workItem from="1640173939942" duration="7310000" />
     </task>
     <servers />
   </component>
