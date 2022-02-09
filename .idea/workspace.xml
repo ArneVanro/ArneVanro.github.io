@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae919fa4-b1aa-4ef9-bfb9-e79098baa2d1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Opdracht Leeg Project/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Opdracht Leeg Project/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Opdracht Leeg Project/Demo rekenmachine/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Opdracht Leeg Project/styles/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Extraatje/Afrika.html" beforeDir="false" afterPath="$PROJECT_DIR$/Extraatje/Afrika.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Extraatje/AfrikaCSS.css" beforeDir="false" afterPath="$PROJECT_DIR$/Extraatje/AfrikaCSS.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HTML5/Stylesheets/CSSpersonalFile.css" beforeDir="false" afterPath="$PROJECT_DIR$/HTML5/Stylesheets/CSSpersonalFile.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo 14 12/OpdrachtKitchn/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 14 12/OpdrachtKitchn/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,11 +46,11 @@
       <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\CSS4" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\Opdracht Leeg Project\Demo rekenmachine" />
       <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\Extraatje\images" />
       <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\Extraatje" />
       <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\Labo 14 12\OpdrachtKitchn" />
       <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\Labo 14 12\herhalingOefeningen\Opdracht1" />
-      <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\CSS7\BeginSituatie" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -105,7 +100,8 @@
       <workItem from="1642166978989" duration="1000" />
       <workItem from="1642511628484" duration="4685000" />
       <workItem from="1642710784494" duration="8000" />
-      <workItem from="1644420020187" duration="402000" />
+      <workItem from="1644420020187" duration="563000" />
+      <workItem from="1644420661465" duration="495000" />
     </task>
     <servers />
   </component>
