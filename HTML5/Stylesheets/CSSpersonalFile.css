@@ -36,6 +36,12 @@ section header{
 
 a{
     font-variant: all-petite-caps;
+    color: blue;
+}
+a:visited{
+    font-variant: all-petite-caps;
+    color: blue;
+
 }
 
 a:hover{

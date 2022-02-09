@@ -1,10 +1,11 @@
 html{
-    background-image: url("images/stripverloopokapi.jpg ");
+
 }
 body{
     border: 1px solid black;
     width: 970px;
     margin: auto;
+    background-image: url("images/stripverloopokapi.jpg ");
 }
 header{
     background-image: url("images/headerokapi.jpg");
