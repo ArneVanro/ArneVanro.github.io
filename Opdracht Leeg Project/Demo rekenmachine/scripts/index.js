@@ -68,20 +68,3 @@ const delen = () => {
 }
  
 window.addEventListener('load',setup); 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

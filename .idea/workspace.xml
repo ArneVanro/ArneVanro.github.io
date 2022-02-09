@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae919fa4-b1aa-4ef9-bfb9-e79098baa2d1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Opdracht Leeg Project/Demo rekenmachine/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Opdracht Leeg Project/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Opdracht Leeg Project/Extra opdract 1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Opdracht Leeg Project/Extra opdract 1/scripts/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Opdracht Leeg Project/Extra opdract 1/styles/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdracht Leeg Project/Demo rekenmachine/scripts/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Opdracht Leeg Project/Demo rekenmachine/scripts/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Opdracht Leeg Project/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Opdracht Leeg Project/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,18 +35,18 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/CSS7/Excersises" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Opdracht Leeg Project/Extra opdract 1" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\Opdracht Leeg Project\Extra opdract 1" />
       <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\CSS7\Excersises" />
       <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\CSS6" />
       <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\CSS6\Bootstrap" />
       <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\CSS5" />
-      <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\CSS4" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\Opdracht Leeg Project\Demo rekenmachine" />
@@ -101,7 +104,7 @@
       <workItem from="1642511628484" duration="4685000" />
       <workItem from="1642710784494" duration="8000" />
       <workItem from="1644420020187" duration="563000" />
-      <workItem from="1644420661465" duration="495000" />
+      <workItem from="1644420661465" duration="1566000" />
     </task>
     <servers />
   </component>
