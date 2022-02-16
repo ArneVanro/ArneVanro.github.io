@@ -11,6 +11,6 @@ const setup = () => {
         console.log(array);
     }
     voegNaamToe(extraNaam);
-    console.log(array);
+    console.log(array.toString());
 }
 window.addEventListener("load", setup);
