@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ae919fa4-b1aa-4ef9-bfb9-e79098baa2d1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Javascript/Labo 2/Opdract Array/OpdrachtArray.js" beforeDir="false" afterPath="$PROJECT_DIR$/Javascript/Labo 2/Opdract Array/OpdrachtArray.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +103,11 @@
       <workItem from="1644420661465" duration="1717000" />
       <workItem from="1644429228673" duration="404000" />
       <workItem from="1644670202968" duration="604000" />
-      <workItem from="1645016790973" duration="7602000" />
+      <workItem from="1645016790973" duration="7769000" />
+      <workItem from="1645026640723" duration="322000" />
+      <workItem from="1645027038713" duration="1010000" />
+      <workItem from="1645112555454" duration="3000" />
+      <workItem from="1646056222551" duration="226000" />
     </task>
     <servers />
   </component>

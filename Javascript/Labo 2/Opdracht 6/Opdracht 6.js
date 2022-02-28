@@ -6,5 +6,6 @@ const kopieer = () => {
     let txtOutput = document.getElementById("txtOutput");
     let tekst = txtInput.value;
     txtOutput.innerHTML = tekst;
+    console.log(tekst);
 }
 window.addEventListener("load", setup);
