@@ -12,9 +12,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="CSS File" />
         <option value="HTML File" />
-        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -45,11 +45,11 @@
       <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\CSS5" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\Javascript\Labo 2" />
       <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\Opdracht Leeg Project\Demo rekenmachine" />
       <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\Extraatje\images" />
       <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\Extraatje" />
       <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\Labo 14 12\OpdrachtKitchn" />
-      <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\Labo 14 12\herhalingOefeningen\Opdracht1" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -109,7 +109,9 @@
       <workItem from="1645112555454" duration="3000" />
       <workItem from="1646056222551" duration="259000" />
       <workItem from="1646056494711" duration="11000" />
-      <workItem from="1646066023699" duration="169000" />
+      <workItem from="1646066023699" duration="771000" />
+      <workItem from="1646829259475" duration="1932000" />
+      <workItem from="1646835102637" duration="4677000" />
     </task>
     <servers />
   </component>
