@@ -10,10 +10,11 @@ const afprinten = () => {
     let selectedMoedertaal;
 
     for(let i = 0; i < moedertaal.length; i++) {
-        if(moedertaal[i].checked)
-            selectedMoedertaal = moedertaal[i].value;
+        if(moedertaal[i].checked){
+            selectedMoedertaal = moedertaal[i].text;
+        }
     }
-    if(isRoker.value){
+    if(isRoker.checked){
         console.log('is een roker')
     } else {
         console.log('is geen roker')
