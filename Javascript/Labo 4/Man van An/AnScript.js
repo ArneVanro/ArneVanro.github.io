@@ -8,7 +8,7 @@ const delenAnVanMan = (zin) =>{
     let count = 0;
     while(!end){
         if(zin.indexOf("an") !== -1){
-            zin = zin.substring(zin.indexOf("an") + 2);
+            zin = zin.substring(zin.indexOf("an")+2);
             count++;
         } else {
             end = true;

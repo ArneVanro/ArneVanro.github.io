@@ -21,6 +21,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="205b9EpDGni678YOUyd16oPvv26" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -31,18 +39,18 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Javascript/Labo 4/Spaties met functie" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Javascript/Labo 5" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\Javascript\Labo 5" />
+      <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\Javascript\Labo 5\Toets" />
       <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\Javascript\Labo 4\Spaties met functie" />
       <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\Opdracht Leeg Project\Extra opdract 1" />
       <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\CSS7\Excersises" />
-      <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\CSS6" />
-      <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\CSS6\Bootstrap" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\Javascript\Labo 4" />
@@ -114,7 +122,12 @@
       <workItem from="1646835102637" duration="6114000" />
       <workItem from="1646922168697" duration="2194000" />
       <workItem from="1647361718366" duration="1000" />
-      <workItem from="1647437822893" duration="6724000" />
+      <workItem from="1647437822893" duration="7118000" />
+      <workItem from="1648040218438" duration="1667000" />
+      <workItem from="1648042829420" duration="21000" />
+      <workItem from="1648043079571" duration="6400000" />
+      <workItem from="1648548312897" duration="8000" />
+      <workItem from="1648548330618" duration="2058000" />
     </task>
     <servers />
   </component>
