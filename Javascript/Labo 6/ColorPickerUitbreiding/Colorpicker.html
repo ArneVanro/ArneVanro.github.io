@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <title>Colorpicker</title>
+    <link type="text/css" href="CSScolorpicker.css" rel="stylesheet">
+</head>
+<body>
+    <div id="colorPicker">
+        <div class="sliders">
+            <ul>
+                <li>
+                    <input type="range" class="slider" value="50" min="0" max="255">
+                </li>
+                <li>
+                    <input type="range" class="slider" value="50" min="0" max="255">
+                </li>
+                <li>
+                    <input type="range" class="slider" value="50" min="0" max="255">
+                </li>
+            </ul>
+        </div>
+
+        <div class="values">
+            <p id="red">red 50</p>
+            <p id="green">green 50</p>
+            <p id="blue">blue 50</p>
+        </div>
+
+        <div class="vierkant" id="vierkantje"></div>
+
+        <input type="button" value="save" id="save">
+    </div>
+    <div class="opgeslaanKleuren">
+
+    </div>
+
+    <script type="text/javascript" charset="utf-8" src="CodeColorpicker.js"></script>
+</body>
+</html>

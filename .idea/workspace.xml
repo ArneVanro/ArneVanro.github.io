@@ -39,26 +39,36 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Javascript/Labo 5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Javascript/Labo 6/ColorPickerUitbreiding" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\Javascript\Labo 6\ColorPickerUitbreiding" />
       <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\Javascript\Labo 5" />
       <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\Javascript\Labo 5\Toets" />
       <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\Javascript\Labo 4\Spaties met functie" />
       <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\Opdracht Leeg Project\Extra opdract 1" />
-      <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\CSS7\Excersises" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\demo's" />
       <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\Javascript\Labo 4" />
       <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\Javascript\Labo 4\Strings" />
       <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\Javascript\Labo 2" />
       <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\Opdracht Leeg Project\Demo rekenmachine" />
-      <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\Extraatje\images" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Colorpicker.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ArneVanro.github.io/Javascript/Labo 6/ColorPickerUitbreiding/Colorpicker.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.Colorpicker.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -128,7 +138,11 @@
       <workItem from="1648043079571" duration="6400000" />
       <workItem from="1648548312897" duration="8000" />
       <workItem from="1648548330618" duration="2058000" />
-      <workItem from="1648565731338" duration="3912000" />
+      <workItem from="1648565731338" duration="4643000" />
+      <workItem from="1648622297760" duration="182000" />
+      <workItem from="1648623805056" duration="7000" />
+      <workItem from="1648643982037" duration="7925000" />
+      <workItem from="1648655726352" duration="368000" />
     </task>
     <servers />
   </component>
