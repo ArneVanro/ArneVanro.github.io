@@ -12,8 +12,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -39,18 +39,18 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Javascript/Labo 6/ColorPickerUitbreiding" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Javascript/Labo 7/Hit an object" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\Javascript\Labo 7\Hit an object" />
       <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\Javascript\Labo 6\ColorPickerUitbreiding" />
       <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\Javascript\Labo 5" />
       <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\Javascript\Labo 5\Toets" />
       <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\Javascript\Labo 4\Spaties met functie" />
-      <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\Opdracht Leeg Project\Extra opdract 1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Vanroose\OneDrive\Documents\GitHub\ArneVanro.github.io\demo's" />
@@ -142,7 +142,14 @@
       <workItem from="1648622297760" duration="182000" />
       <workItem from="1648623805056" duration="7000" />
       <workItem from="1648643982037" duration="7925000" />
-      <workItem from="1648655726352" duration="368000" />
+      <workItem from="1648655726352" duration="984000" />
+      <workItem from="1648660927386" duration="27000" />
+      <workItem from="1648665550354" duration="172000" />
+      <workItem from="1648666954114" duration="19000" />
+      <workItem from="1649772954404" duration="623000" />
+      <workItem from="1649775741687" duration="603000" />
+      <workItem from="1650458785315" duration="7594000" />
+      <workItem from="1650553279420" duration="3047000" />
     </task>
     <servers />
   </component>
