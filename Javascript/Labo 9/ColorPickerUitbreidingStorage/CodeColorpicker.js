@@ -2,6 +2,11 @@ let kleuren = [];
 const setup = () => {
     restoreKleuren()
     let sliders = document.getElementsByClassName('slider');
+
+    sliders[0].setAttribute('value', localStorage.getItem('redValue'))
+    sliders[1].setAttribute('value', localStorage.getItem('greenValue'))
+    sliders[2].setAttribute('value', localStorage.getItem('blueValue'))
+
     update();
     sliders[0].addEventListener('change', update);
     sliders[0].addEventListener('input', update);
@@ -96,6 +101,10 @@ const updateWaarden =() =>{
     redValue.innerText = 'red ' + sliders[0].value;
     greenValue.innerText = 'green ' + sliders[1].value;
     blueValue.innerText = 'blue ' + sliders[2].value;
+
+    localStorage.setItem('redValue', sliders[0].value)
+    localStorage.setItem('greenValue', sliders[1].value)
+    localStorage.setItem('blueValue', sliders[2].value)
 }
 const update = () =>{
     let sliders = document.getElementsByClassName('slider');
