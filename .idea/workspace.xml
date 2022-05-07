@@ -12,9 +12,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -39,7 +39,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Javascript/Labo 9" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Javascript/Labo 10" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -154,7 +154,8 @@
       <workItem from="1650565299416" duration="44000" />
       <workItem from="1650610457871" duration="126000" />
       <workItem from="1651058278853" duration="9622000" />
-      <workItem from="1651666947468" duration="6106000" />
+      <workItem from="1651666947468" duration="8732000" />
+      <workItem from="1651925855914" duration="7881000" />
     </task>
     <servers />
   </component>
