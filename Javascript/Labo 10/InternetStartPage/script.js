@@ -1,8 +1,15 @@
 let storageHistory = [];
 const setup = () => {
-    let go = document.getElementsByClassName('go')
-    go[0].addEventListener('click', search)
+    let go = document.getElementsByClassName('go')[0]
+    go.addEventListener('click', search)
+    let searchbar = document.getElementsByClassName("searchBar")[0]
+    searchbar.addEventListener('keydown', log)
     reloadHistory()
+}
+const log = (e) =>{
+    if(e.key === "Enter"){
+        search();
+    }
 }
 const search = () =>{
     let searchBar = document.getElementsByClassName('searchBar')[0]
@@ -51,7 +58,7 @@ const search = () =>{
             url: url,
             kleur: kleur
         }
-        storageHistory.push(h)
+        storageHistory.unshift(h)
         localStorage.setItem('storageHistory', JSON.stringify(storageHistory))
         vulHistoryAan()
     }else{
@@ -65,8 +72,8 @@ const search = () =>{
 const vulHistoryAan = () =>{
     document.getElementsByClassName('searchBar')[0].value = '';
     if(storageHistory.length === 7){
-        document.getElementsByClassName('history')[0].removeChild(document.getElementsByClassName('history')[0].children[0])
-        storageHistory.shift()
+        document.getElementsByClassName('history')[0].removeChild(document.getElementsByClassName('history')[0].children[5])
+        storageHistory.pop()
         console.log(storageHistory)
         localStorage.setItem('storageHistory', JSON.stringify(storageHistory))
     }
